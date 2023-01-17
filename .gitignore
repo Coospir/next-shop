@@ -1,0 +1,11 @@
+.idea/
+package-lock.json
+yarn.lock
+node_modules
+.next/
+
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*

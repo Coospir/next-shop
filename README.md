@@ -1,6 +1,6 @@
-#Hi! This is NextShop :)
+# Hi! This is NextShop :)
 Simple web app, based on React, Typescript, Next.js, Tailwind and etc.
-####[Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#### [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ***
 
 ## Getting Started
